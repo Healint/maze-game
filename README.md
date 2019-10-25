@@ -1,4 +1,4 @@
 # maze-game
-Team member:
+Team members:
 - Anh
 - Jiechao
